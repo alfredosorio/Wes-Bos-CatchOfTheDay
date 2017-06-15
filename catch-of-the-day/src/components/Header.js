@@ -1,6 +1,6 @@
 import React from 'react';
 
-{/* converted into stateless functional component. */}
+// converted into stateless functional component.
 const Header = (props) => {
   return (
     <header className="top">
